@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoPong", "MonoPong\MonoPong.csproj", "{250A20CA-7395-41F0-8EC4-36E2E7CE3883}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{250A20CA-7395-41F0-8EC4-36E2E7CE3883}.Debug|x86.ActiveCfg = Debug|x86
+		{250A20CA-7395-41F0-8EC4-36E2E7CE3883}.Debug|x86.Build.0 = Debug|x86
+		{250A20CA-7395-41F0-8EC4-36E2E7CE3883}.Release|x86.ActiveCfg = Release|x86
+		{250A20CA-7395-41F0-8EC4-36E2E7CE3883}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91979876-8DBC-439E-A5DB-696338715387}
+	EndGlobalSection
+EndGlobal
